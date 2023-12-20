@@ -34,13 +34,12 @@ sudo systemctl restart apache2
 2. Menambahkan direktori
 ``
 sudo nano /var/www/html/info.php
-``sh
+`` sh
 ganti dengan :
-``
 <?php
 phpinfo();
 ?>
-``sh
+
 
 1. Install ssh
 ``
