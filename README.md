@@ -10,14 +10,16 @@ Tools yangdigunakan:
 
 INSTALLASI 
 1. Install apache2
-$sudo apt upddate
+``
+sudo apt upddate
 sudo apt install apache2
-2. menjalankan apache
+``sh
+3. menjalankan apache
 ``
 sudo systemctl start apache2
 sudo systemctl enable apache2
 ``sh
-3. Mengecek apache
+4. Mengecek apache
 ``
 http://alamat_IP_server/
 ``sh
