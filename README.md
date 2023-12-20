@@ -10,10 +10,8 @@ Tools yangdigunakan:
 
 INSTALLASI 
 1. Install apache2
-``
-sudo apt upddate
+$sudo apt upddate
 sudo apt install apache2
-``sh
 2. menjalankan apache
 ``
 sudo systemctl start apache2
